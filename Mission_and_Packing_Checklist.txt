@@ -1,0 +1,103 @@
+#Generic SUAS Test Flight Checklist
+#2022-05-18 – Conor McCaffrey – UAX Technologies
+
+___Packing___
+***Hub Case***
+-Hub
+-Landing Gear
+-Arm screws
+-Carbon wrench
+-R/C controller
+ *Ground Telemetry and/or Data Radio
+ *Payload mount (toad)
+ *FPV monitor
+ *removable battery tray
+-Arm Case
+-Arms (x4)
+-Propellers (x8)
+-Flight Pack Case
+-Flight Battery Packs
+ *Flight battery adapters and extensions
+ *Balance lead adapters
+
+***Go Bag***
+-Hex drivers
+-VHB
+-Tape
+-Painter tape
+-Marker
+-Dual lock/velcro
+-Power strip
+-Extension cord
+-Pliers
+-Hemostats
+-Adjustable wrench
+-Fuses
+-Micro USb cable
+-Mini usb cable
+-USB-c to usb-a cable
+-uSD card reader
+-Empty small project box for screws
+-USB wifi adapter
+-Lipo checker
+-Headlamp
+-Loctite
+-Scissors
+
+***Misc***
+-Aircraft checklist(s)
+-GCS and note taking laptop
+-Folding chair
+-Folding table
+-Canopy
+-Fire extinguisher
+-Medical kit
+ -Quick clot
+*Payload weight
+*RTK base
+
+___Special Operations___
+***Chute***
+-Parachute training plug
+-Chute
+-Chute mount
+-Parachute dummy weight
+
+***Tuning or Unusual Testing***
+-Camera
+-Tripod
+-Hot swap or extended duration testing
+-Shore power battery
+
+***Team operations***
+-Headsets or radios
+
+***Hybrid Gas piston aircraft***
+-Fuel
+-Fuel pump
+-Fuel pump battery
+-Fuel hoses and fittings required for fueling
+-Scale
+-Buffer batteries
+
+___Away or Large Mission___
+***Packing Items***
+-Laptop charger
+-Charger for flight battery packs
+-Battery charging adapters
+-Battery balance adapters and extensions
+-AC power cable (high current)
+-R/C transmitter charger
+-Landing pad
+
+***Personal and Crew***
+-Sun screen
+-Bug spray
+-Safety glasses
+-Sunglasses
+-Sunblock
+-Hydration
+-Food or lunch plans
+-POC for crew members
+-Roles assigned
+-Restroom access
